@@ -1,0 +1,9 @@
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '1', '2014-10-06T23:01', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '12', '2014-10-06T23:02', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '123', '2014-10-06T23:03', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '1234', '2014-10-06T23:04', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '12345', '2014-10-06T23:05', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '123456', '2014-10-06T23:06', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '1234567', '2014-10-06T23:07', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '12345678', '2014-10-06T23:08', NULL);
+INSERT INTO joy (id, where, updated, inserted) VALUES (0, '123456789', '2014-10-06T23:09', NULL);
